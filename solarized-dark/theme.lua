@@ -91,5 +91,14 @@ theme.layout_dwindle = "/usr/share/awesome/themes/default/layouts/dwindlew.png"
 -- from /usr/share/icons and /usr/share/icons/hicolor will be used.
 theme.icon_theme = nil
 
+-- Widget theme from http://pavelmakhov.com/awesome-wm-widgets/
+theme.widget_main_color = "#74aeab"
+theme.widget_red = "#e53935"
+theme.widget_yelow = "#c0ca33"
+theme.widget_green = "#43a047"
+theme.widget_black = "#000000"
+theme.widget_transparent = "#00000000"
+
+
 return theme
 -- vim: filetype=lua:expandtab:shiftwidth=4:tabstop=8:softtabstop=4:textwidth=80
